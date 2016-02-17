@@ -1,0 +1,9 @@
+2. It made the boxes' width smaller.
+3. testDiv1 moved to the right and testDiv2 moved to the left of it.
+4. testDiv1 moved to the left and testDiv2 moved to the right of it.
+5. The words get smaller but testDiv1 and testDiv2 stay the same.
+6. testDiv2 moves to the left and testDiv1 moves to the right.
+7. testDiv1's width gets bigger but its length gets smaller.
+9. testDiv1 and testDiv2 adjust with the adjustment of the browser.
+11.They were all equal sized but they were all to the left. I changed the width to 20% for each of them.
+12.The second two divs were equal and the first div is larger (width and length)
